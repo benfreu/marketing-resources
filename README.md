@@ -9,6 +9,7 @@
 ## Blogs & Email Lists
 
 - [Marketing Examples](https://marketingexamples.com/)
+- [Early User Growth](https://earlyusergrowth.com/startups)
 
 
 ## Guides & Checklists
