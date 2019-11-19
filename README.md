@@ -21,3 +21,4 @@
 
 - [Awesome Visibility](https://github.com/dehenne/awesome-visibility)
 - [Startup Promotion List](https://startup-promotion-list.quiqqer.com/)
+- [Growth Design Case Studies](https://growth.design/blog/)
